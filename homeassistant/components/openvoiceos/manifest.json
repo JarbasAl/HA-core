@@ -1,0 +1,10 @@
+{
+  "domain": "ovos",
+  "name": "OpenVoiceOS",
+  "codeowners": [],
+  "disabled": "Dependencies not compatible with the new pip resolver",
+  "documentation": "https://github.com/OpenVoiceOS/ovos-bus-client",
+  "iot_class": "local_push",
+  "loggers": [],
+  "requirements": ["ovos_bus_client"]
+}
